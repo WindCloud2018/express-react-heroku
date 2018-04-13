@@ -3,12 +3,11 @@
 ## Starter pack for Express backend with React frontend using create-react-app, and deploy to Heroku with postgresql database.
 
 ## Technologies
-* [Axios](https://www.npmjs.com/package/axios) - API Calls.
 * [Express](https://expressjs.com/) - NodeJS library.
 * [create-react-app](https://github.com/facebook/create-react-app) - React Starter Pack.
 * [Heroku](https://devcenter.heroku.com/) - Deployment platform and documentations
 
-### Starter included full CRUD testing route
+### Starter included full CRUD testing route on Express
 
 ### How to get start
 * Make sure got NodeJS and npm installed
@@ -42,11 +41,11 @@ DB_NAME=name of your database
 ### How to start local environment
 * Start local server
 ```
-npm run dev
+npm run start
 ```
 * Start local front-end
 ```
-npm run start
+npm run dev
 ```
 
 ### How to deploy to Heroku with Git
